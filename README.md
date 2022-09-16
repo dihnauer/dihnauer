@@ -4,6 +4,6 @@
 Hi! I am dihnauer 👋 <br />
 I'm a front-end developer at UNIVALI - Universidade do Vale do Itajaí.
 
-My engineering background includes, but is not limited to, HTML, CSS, JavaScript/TypeScript and React web apps.
+My engineering background includes (but is not limited to): HTML, CSS, JavaScript/TypeScript and React web apps.
 
 📫 How to reach me: dihnauer@gmail.com
