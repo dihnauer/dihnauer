@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "Catppuccin.catppuccin-vsc",
+    "naumovs.color-highlight",
+    "clinyong.vscode-css-modules",
+    "mikestead.dotenv",
+    "dsznajder.es7-react-js-snippets",
+    "GitHub.copilot",
+    "ritwickdey.LiveServer",
+    "bierner.markdown-preview-github-styles",
+    "PKief.material-icon-theme",
+    "softwaredotcom.music-time",
+    "esbenp.prettier-vscode",
+    "Prisma.prisma",
+    "ahmadawais.shades-of-purple",
+    "bradlc.vscode-tailwindcss",
+    "styled-components.vscode-styled-components",
+  ]
+}
