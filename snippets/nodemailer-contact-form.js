@@ -1,5 +1,3 @@
-// Using NextJS and TypeScript
-
 // ./pages/api/contact.ts
 import { NextApiRequest, NextApiResponse } from 'next';
 
@@ -36,17 +34,15 @@ const mailer = ({ senderMail, name, text }: MailerProps) => {
 
   return new Promise((resolve, reject) => {
     transporter.sendMail(message, (error, info) => {
-      // error e info são callbacks para possíveis problemas
       error ? reject(error) : resolve(info);
     });
   });
 };
 
 export default async (request: NextApiRequest, response: NextApiResponse) => {
-  const { senderMail, name, content } = request.body; // dados que vêm do front-end
+  const { senderMail, name, content } = request.body;
 
   if (!senderMail || !name || !content) {
-    // se não encontrar os campos preenchidos, devolve um json com a mensagem
     response.status(403).json({ message: 'Please fill out all the fields.' });
     return;
   }
