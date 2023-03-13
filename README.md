@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dihnauer)
 
 Hi, i'm Diogo, also known as @dihnauer. 👋 <br />
-I'm a front-end developer, born at state of Rio Grande do Sul and now living at the state of Santa Catarina with my amazing wife.
+I'm a front-end developer at <a href="https://www.univali.br/" target="_blank">Universidade do Vale do Itajaí - UNIVALI</a>
 
 My engineering background includes (but is not limited to): HTML, CSS, JavaScript/TypeScript and React/React Native.
 
