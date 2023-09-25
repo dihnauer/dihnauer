@@ -6,4 +6,4 @@ I'm a front-end developer at <a href="https://www.univali.br/" target="_blank">U
 
 My engineering background includes (but is not limited to): HTML, CSS, JavaScript/TypeScript, React.js/Next.js to web development and React Native to mobile development.
 
-📫 How to reach me: dihnauer@gmail.com | <a href="https://www.dihnauer.dev/" target="_blank">dihnauer.dev</a>
+📫 How to reach me: dihnauer@gmail.com | <a href="https://www.dihnauer.com.br/" target="_blank">dihnauer.com.br</a>
